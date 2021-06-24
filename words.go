@@ -35,3 +35,4 @@ func main() {
 // fork test
 // after make pull request
 // submodule test
+// submodule add commit test
