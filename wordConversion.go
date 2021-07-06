@@ -70,3 +70,4 @@ func condition(a string, b string) bool {
 		return false
 	}
 }
+// time attack
