@@ -76,3 +76,4 @@ func condition(a string, b string) bool {
 // test merg commit - master branch
 // test rebase - master branch
 // test rebase2 - master branch
+// test squash - master branch
