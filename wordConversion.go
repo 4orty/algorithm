@@ -77,3 +77,4 @@ func condition(a string, b string) bool {
 // test rebase - master branch
 // test rebase2 - master branch
 // test squash - master branch
+// test squash without rebase branch - master branch
