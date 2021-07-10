@@ -45,3 +45,4 @@ func main() {
 // test merge commit
 // test rebase
 // test rebase2
+// test squash
