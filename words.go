@@ -46,3 +46,4 @@ func main() {
 // test rebase
 // test rebase2
 // test squash
+// test squash without rebase branch
