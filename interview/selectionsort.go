@@ -1,4 +1,4 @@
-package sorting
+package interview
 
 // selection sort는 sorting 중에 제일 안좋은 거.
 // 시간복잡도는 전부 n2이다.

@@ -1,4 +1,4 @@
-package sorting
+package interview
 
 import "fmt"
 

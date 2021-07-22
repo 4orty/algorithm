@@ -1,5 +1,1 @@
 package baekjoon
-
-func MergeFile() {
-
-}
