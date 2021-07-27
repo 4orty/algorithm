@@ -48,3 +48,4 @@ package main
 //// test squash
 //// test squash without rebase branch
 // username test
+// second merge order test
