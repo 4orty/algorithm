@@ -79,3 +79,4 @@ package main
 //// test squash - master branch
 //// test squash without rebase branch - master branch
 //// merge order test - feature late
+//// mots2 - feature
