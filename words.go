@@ -48,3 +48,5 @@ package main
 //// test squash
 //// test squash without rebase branch
 // username test
+// merge order test - master first
+// merge order test - master third

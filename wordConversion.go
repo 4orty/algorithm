@@ -78,4 +78,3 @@ package main
 //// test rebase2 - master branch
 //// test squash - master branch
 //// test squash without rebase branch - master branch
-//// merge order test - feature late
