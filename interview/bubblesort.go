@@ -1,6 +1,9 @@
 package interview
 
-import "fmt"
+import (
+	"fmt"
+	"math/rand"
+)
 
 // selection sort는 sorting 중에 제일 안좋은 거.
 // 시간복잡도는 전부 n2이다.
@@ -15,23 +18,19 @@ func Bubble() {
 	//	for j:=0; j<len(a)-i-1; j++ {
 	//		if a[j] > a[j+1] {
 	//			 temp := a[j]
-	//			 a[j] = a[j+1]
-	//			 a[j+1] = temp
-	//		}
-	//	}
-	//}
-	//fmt.Println(a)
+	//			 a[j] = a[j+1]팁
 
-	// bubble sort는 뒷자리부터 정렬임
-	for i:=0; i<len(a)-1; i++ {
-		for j:=0; j<len(a)-i-1; j++ {
-			if a[j+1] < a[j] {
-				temp := a[j+1]
-				a[j+1] = a[j]
-				a[j] = temp
-			}
-		}
+
+	// 1.
+	var efficiency int
+	for i:=0; i<10; i++ {
+		efficiency = rand.Intn(10)
+		fmt.Println(efficiency)
 	}
-	fmt.Println("Bubble sort: ", a)
 
+	// 2.
+	for i:=0; i<10; i++ {
+		readability := rand.Intn(10)
+		fmt.Println(readability)
+	}
 }
